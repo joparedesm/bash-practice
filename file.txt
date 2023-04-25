@@ -1,0 +1,15 @@
+arguments.sh
+case.sh
+conditionals.sh
+continue_break.sh
+errors.txt
+file.txt
+hellobash.sh
+hola.txt
+logic_opatator.sh
+loop.sh
+output.sh
+read.sh
+speed_test.py
+stderr_stdout.sh
+stdin.sh
